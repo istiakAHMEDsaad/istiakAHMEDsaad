@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working Web Development<br>🌱 I’m currently learning Networking, A.I<br>
+🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Networking, A.I<br>
 
 
 ## 🌐 Socials:
