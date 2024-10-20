@@ -76,12 +76,8 @@
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=istiakAHMEDsaad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=istiakAHMEDsaad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=istiakAHMEDsaad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=istiakAHMEDsaad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph"  />
 </div>
 
 ###
@@ -93,6 +89,11 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=istiakAHMEDsaad&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=istiakAHMEDsaad&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+<div align="center">
+<img height="350" width="600" src="https://wakatime.com/share/@istiak_ahmed_saad/fbb3e882-20e0-4d46-a574-d5b2020e16b9.svg" />
 </div>
 
 ###
