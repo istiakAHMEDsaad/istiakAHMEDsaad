@@ -8,7 +8,7 @@
 ###
 <br clear="both">
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=istiakAHMEDsaad&icon=3&color=0"  />
+  <img src="https://count.getloli.com/get/@istiakAHMEDsaad" />
   <img src="https://wakatime.com/badge/user/eca219f3-9572-45ce-a31b-fd749c50e0db.svg"  />
 </div>
 
